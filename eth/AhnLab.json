@@ -1,6 +1,13 @@
 {
     "name": "AhnLab Blockchain Company",
     "eth_address": "0x3b6590ff12ba188e465395e1610d8368613054b0",
+    "tonV3R2Address": "EQDgSu18m-XOgUi4ReI8II_4lTT54-NT4G5PB338QDEf7Ny9",
+    "ethPublic": "0x04c74681c921380e81e9f44b813287f02037f3f00a3a4d84fb40c018c0f864a7b4ad240c434464a6061341c8137184347c4c1240e1a09644dc2f3ce92fe93408e8",
+    "tonPublic": "0xe3581748ccb58077b31a08da6d94c8ce2174ba2c562eff8ecb4c72a010569940",
+    "stacksCompressedAddress": "SP372RP3YD60EDX1PDTM8D2AZB3STH1MG99FEJ4V6",
+    "stacksTestnetCompressedAddress": "ST372RP3YD60EDX1PDTM8D2AZB3STH1MG9AT8YCPN",
+    "stacksCompressedPub": "0x02c74681c921380e81e9f44b813287f02037f3f00a3a4d84fb40c018c0f864a7b4",
+    "stacksCompressedHash160": "ce2c587e6980e6f4366ea886895f58f3a886904a",
     "homepage": "https://myabcwallet.io",
     "contact": "help@myabcwallet.io",
     "location": "Korea",
